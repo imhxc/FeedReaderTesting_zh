@@ -1,8 +1,7 @@
 # 如何运行
 
 克隆至本地，搭建服务器环境，打开index.html即可。
-
-
+直接预览:[https://imhxc.github.io/FeedReaderTesting_zh](https://imhxc.github.io/FeedReaderTesting_zh)
 
 # 测试功能
 
